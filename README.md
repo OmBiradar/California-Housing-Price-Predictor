@@ -3,6 +3,7 @@
 This project aims to build machine learning models that can predict the price of homes in California given specific data attributes. The maximum achieved accuracy is approximately 81.13%.
 ## Setup
 <details>
+  
   Create a virtual environment venv in the directory
   ```
   python -m venv venv

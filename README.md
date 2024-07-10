@@ -9,6 +9,7 @@ This project aims to build machine learning models that can predict the price of
   python -m venv venv
   ```
   Activate the environment
+    
     - for linux/mac
   ```
   source venv/bin/activate

@@ -4,11 +4,16 @@ An ML model whicih aims to predict the housing prices in california.
 ## Setup
 - Create a virtual environment venv in the directory
 ```
-python -m venv env
+python -m venv venv
 ```
 - Activate the environment
+  - for linux/mac
 ```
-source env/bin/activate
+source venv/bin/activate
+```
+  - for windows
+```
+venv\Scripts\activate
 ```
 - Install dependencies from requirements.txt file
 ```

@@ -2,11 +2,11 @@
 An ML model whicih aims to predict the housing prices in california.
 
 ## Setup
-- Create a virtual environment venv in the directory
+Create a virtual environment venv in the directory
 ```
 python -m venv venv
 ```
-- Activate the environment
+Activate the environment
   - for linux/mac
 ```
 source venv/bin/activate
@@ -15,11 +15,11 @@ source venv/bin/activate
 ```
 venv\Scripts\activate
 ```
-- Install dependencies from requirements.txt file
+Install dependencies from requirements.txt file
 ```
 pip install -r requirements.txt
 ```
-- Run the jupyter lab
+Run the jupyter lab
 ```
 jupyter lab
 ```

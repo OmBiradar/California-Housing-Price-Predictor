@@ -10,11 +10,11 @@ This project aims to build machine learning models that can predict the price of
   ```
   Activate the environment
     
-    - for linux/mac
+  - for linux/mac
   ```
   source venv/bin/activate
   ```
-    - for windows
+  - for windows
   ```
   venv\Scripts\activate
   ```
